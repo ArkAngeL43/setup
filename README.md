@@ -1,4 +1,8 @@
 #automation-male-us 
+
+when you git clone or download the zip and unzip, cd into the directory, then run python3 main.py since that is the main module
+
+
 automation voice AI.mp3 for setting up you're system on a daily basis 
 
 using gTTS library i downloaded and made AI voices for a setup system 
@@ -20,3 +24,7 @@ required packages are, requests, requests html, json, dill, calendar, requests_h
  
  
  pip install { package name }
+
+
+
+############# NEWER UPDATES COMING SOON ADDING THE FOLLOWING||||| neo fetch, corona CLI, and more commands 
